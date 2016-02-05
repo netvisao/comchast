@@ -13,7 +13,8 @@ class Config(object):
   Comcast_UPL_Threshold = 20 * .5
 
   Tweet_Templates = [
-    "@comcastcares Watch me being whipped by slow speeds : Actual %dmbps, Expected 105mbps - https://youtu.be/vjW8wmF5VWc",
+    "@comcastcares ! Woot Woot ! debug assertion failed : Expected 105mbps, Actual %dmbps. Nerd life.",
+    "@comcastcares Watch me being whipped by slow speeds: Actual %dmbps, Billed for 105mbps - https://youtu.be/vjW8wmF5VWc",
     "@comcastcares wants me to take the banana.. %mbps instead of 105 - https://youtu.be/6n5uhr85Zmo",
     "@comcastcares please !! %dmbps when I pay for 105?",
     "How come I am getting only %dmbps download when I am paying for 105? @comcastcares",
