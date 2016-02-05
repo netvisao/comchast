@@ -1,10 +1,14 @@
 
 class Config(object):
-  Log_filename = '/home/mea/comchast/logs/comchast.log'
-  Twitter_key = 'gsmgYNxwXVq9YHgarF09zUG4a'
-  Twitter_secret = 'zRLAAABJluNmKvfag10geRcmYzPE2nOFdhJMOsDN6WjexUu0FW' 
-  Twitter_access_key = '18223446-hyHyOFDY8pzk0Wd7AuwplChu74BITCoZslVg4HhIr'
-  Twitter_access_secret = 'DtQrDeFYRvKp6Dfm8bp9gzIgGR5zTMtgkIDeHSyLDVhWb'
+  Log_filename = 'logs/comchast.log'
+  
+  #TODO 
+  Twitter_key = ''
+  Twitter_secret = '' 
+  Twitter_access_key = ''
+  Twitter_access_secret = ''
+  #TODO - End
+  
   Comcast_DL_Threshold = 105 * .5
   Comcast_UPL_Threshold = 20 * .5
 
