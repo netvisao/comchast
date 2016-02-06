@@ -15,7 +15,7 @@ class Config(object):
   Tweet_Templates = [
     "Haha, friends ! Bragging of 105mbps connection to the internetz. Who's laughing now says @comcast. %dmbps. @comcastcares",
     "@comcastcares so much it does now want me to dangerously surf at the 105mbps speeds I am billed for. We will stick to %dmbps for now",
-    "Today my car decided to run at a maximum speed of %dmph instead of the manufacturer's max spec of 105mph.. The manufacturer is @comcast. @comcastcares", 
+    "Today my car decided to run at a maximum speed of %dmph. The manufacturer's max spec is 105mph. The manufacturer is @comcast. @comcastcares", 
     "@comcastcares @comcast, why don't you add more fees? the recently imposed fees did not help with my speeds, getting %dmbps while paying for 105",
     "@comcastcares ! Woot Woot ! Slow speed keep right. %dmbps != 105mbps I pay for - https://youtu.be/ENWeBtvAU90?t=140",
     "@comcastcares ! Woot Woot ! debug assertion failed : Expected 105mbps, Actual %dmbps. Nerd life.",
